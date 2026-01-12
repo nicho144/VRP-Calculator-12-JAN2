@@ -1,5 +1,1 @@
-
-streamlit
-pandas
-yfinance
-requests
+pip install yfinance pandas streamlit
